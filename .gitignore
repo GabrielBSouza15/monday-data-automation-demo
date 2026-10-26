@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+demo_output/
+*.tmp
+.env
+.test_tmp/
+*token*
+*credential*
