@@ -66,3 +66,8 @@ Nenhum dado, credencial, perfil de navegador, log, backup, link interno ou logot
 [Gabriel Bitencourt de Souza](https://www.linkedin.com/in/gabrielbitencourtdesouza/) · Dados, BI e automação · Engenharia de Produção em andamento na UFV.
 
 Código demonstrativo disponibilizado sob licença MIT. A licença abrange somente o conteúdo deste repositório.
+
+
+## Verificação automática
+
+O workflow executa os testes do processamento Python em Linux com Python 3.12. Ele não executa a coleta opcional com Playwright nem serviços profissionais. A execução ocorre em alterações de `main`, pull requests e acionamentos manuais. Consulte o resultado em [GitHub Actions](https://github.com/GabrielBSouza15/monday-data-automation-demo/actions/workflows/testes.yml).
